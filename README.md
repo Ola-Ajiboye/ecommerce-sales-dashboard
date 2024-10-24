@@ -11,7 +11,6 @@ E-commerce has become a crucial component of modern retail, necessitating data-d
 6. Item Type
 7. Outlet Performance
 
-view dashboard [here]
 
 ## Data Collection 
 Data was collected from sales records, customer feedback, and inventory management systems. 
