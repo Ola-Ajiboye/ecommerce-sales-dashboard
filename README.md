@@ -3,7 +3,7 @@
 E-commerce has become a crucial component of modern retail, necessitating data-driven approaches to maximize performance. This analysis seeks to explore how various factors influence sales performance and consumer preferences within an e-commerce framework.
 
 ## Business Requirements Overview
-1. KP'S
+1. KPI'S
 2. Item by Fat Content
 3. Outlet Size
 4. Outlet Location Type
